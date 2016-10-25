@@ -1,13 +1,10 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
-</head>
-
-NESbox flash emulator
-<body>
-<div>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1><a href = "./index.html">BACK</a></h1>
+		<div class = "Game">
+			<div>
     <div id="emulator">
         <p>To play this game, please, download the latest Flash player!</p>
         <br>
@@ -38,8 +35,8 @@ NESbox flash emulator
             {
                 var flashvars = 
                 {
-                    system : 'sega',
-                    url : '/roms/Flappy Bird (PD) v1.0.gen'
+                    system : 'nes',
+                    url : '/roms/SMB3.nes'
                 };
                 var params = {};
                 var attributes = {};
@@ -48,7 +45,7 @@ NESbox flash emulator
                 params.allowFullScreen = 'true';
                 params.allowFullScreenInteractive = 'true';
 
-                swfobject.embedSWF('flash/Nesbox.swf', 'emulator', '640', '480', '11.2.0', 'flash/expressInstall.swf', flashvars, params, attributes);
+                swfobject.embedSWF('bin/Nesbox.swf', 'emulator', '640', '480', '11.2.0', 'flash/expressInstall.swf', flashvars, params, attributes);
             }
         }
 
@@ -56,5 +53,6 @@ NESbox flash emulator
     });
 
 </script>
-</body>
+		</div>
+	</body>
 </html>
