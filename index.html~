@@ -27,18 +27,15 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
   
-  <link rel="shortcut icon" type="image/png" href="/favicon.png">
-
-  
   <link href="http://fonts.googleapis.com/css?family=Raleway:300,500%7CArvo:700" rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript" src="js/modernizr.custom.79639.js"></script><!--[if lte IE 8]><style>.support-note .note-ie{display:block;}</style><![endif]-->
 </head><body>
-<div class="container"><!-- Codrops top bar --><!--/ Codrops top bar -->
-<header>
+<div class="container"><!-- Codrops top bar --><!--/ Codrops top bar --> <header>
 </header>
-<div class="support-note"><!-- let's check browser support with modernizr --><span class="no-cssanimations">CSS animations are not supported in your
+<div class="support-note"><!-- let's check browser support with modernizr -->
+<span class="no-cssanimations">CSS animations are not supported in your
 browser</span> <span class="no-csstransforms">CSS transforms are not
 supported in your browser</span> <span class="no-csstransforms3d">CSS
 3D transforms are not supported in your browser</span> <span class="no-csstransitions">CSS transitions are not supported in your
@@ -76,6 +73,7 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 </dl>
 </div>
 <!-- /rm-content -->
+
 </div>
 <!-- /rm-back --> </div>
 <!-- /rm-cover -->
@@ -85,7 +83,7 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <h4>Games</h4>
 <dl>
   <dt>Html5 games</dt>
-  <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Tetris Web Game</a></dd>
+  <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Tetris Web Game</a></dd>
   <dl>
     <dl>
       <dt>Flash emulators</dt>
