@@ -84,7 +84,7 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <h4>Games</h4>
 <dl>
   <dt>Html5 games</dt>
-  <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/tetris.png">Tetris Web Game</a></dl>
+  <dl><a href="/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/tetris.png">Tetris Web Game</a></dl>
   <dt></dt>
   <dl><a href="Games/Html5/Mario/index.html" class="rm-viewdetails" data-thumb="images/mario.png">Mario Web Game</a></dl>
   <dl></dl>
