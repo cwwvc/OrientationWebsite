@@ -33,7 +33,7 @@
                 var flashvars = 
                 {
                     system : 'sega',
-                    url : '/roms/SMB3.nes'
+                    url : 'http://play.emuparadise.me/nesbox/vNES/roms/Super%20Mario%20Bros.%20(Japan,%20USA).nes'
                 };
                 var params = {};
                 var attributes = {};
