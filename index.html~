@@ -63,13 +63,14 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <div class="rm-content">
 <h4>&nbsp;</h4>
 <dl>
-  <dt>My Tecth Twitter</dt>
-  <dt><a href="https://twitter.com/buckytech" class="rm-viewdetails" data-thumb="">@Buckytech</a></dt>
-  <dd>&nbsp;</dd>
+  <dt>My Tech Twitter</dt>
+  <dt><a href="https://twitter.com/buckytech" class="rm-viewdetails" data-thumb="images/twitter.png">@Buckytech</a></dt>
+  <di>&nbsp;</di>
   <dt>Tutorials</dt>
   <dd>None Yet</dd>
   <dt>School Email</dt>
-  <dt><a href="mailto:cameron.whaley@wabash348.com" class="rm-viewdetails" data-thumb="">cameron.whaley@wabash348.com</a></dt>
+  <dt><a href="mailto:cameron.whaley@wabash348.com" class="rm-viewdetails" data-thumb="images/8.jpg">cameron.whaley</a></dt>
+<dl>@wabash348.com</dl>
 </dl>
 </div>
 <!-- /rm-content -->
@@ -83,26 +84,34 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <h4>Games</h4>
 <dl>
   <dt>Html5 games</dt>
-  <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Tetris Web Game</a></dd>
-  <dl>
-    <dl>
+  <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/tetris.png">Tetris Web Game</a></dl>
+  <dt></dt>
+  <dl><a href="Games/Html5/Mario/index.html" class="rm-viewdetails" data-thumb="images/mario.png">Mario Web Game</a></dl>
+  <dl></dl>
+  <dl><a href="Games/Html5/Pokemon/index.html" class="rm-viewdetails" data-thumb="images/pokeball.png">Pokemon Web Game</a></dl>
+<dl></dl>
       <dt>Flash emulators</dt>
-      <dd><a href="https://camwhaler.github.io/Games/NESBox/Nesbox.html" class="rm-viewdetails" data-thumb="images/8.jpg">Nesbox</a></dd>
-      <dl>
+      <dl><a href="https://camwhaler.github.io/Games/NESBox/Nesbox.html" class="rm-viewdetails" data-thumb="images/nes.jpg">Nesbox</a></dl>
+      <dt></dt>
         <dt>Flash games</dt>
-        <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dd>
-        <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dd>
-        <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dd>
-        <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dd>
-        <dd><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dd>
+        <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dl>
+          <dl></dl>
+        <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dl>
+          <dl></dl>
+        <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dl>
+        <dl></dl>
+        <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dl>
+        <dl></dl>
+        <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Placeholder</a></dl>
+        </dl>
+      <dt>Links for Mrs. Wright</dt>
+        <dl><a href="wright%20links/family.html" class="rm-viewdetails" data-thumb="images/8.jpg">Family</a></dl>
+          <dt></dt>
+        <dl><a href="wright%20links/friends.html" class="rm-viewdetails" data-thumb="images/8.jpg">Friends</a></dl>
+          <dt></dt>
+        <dl><a href="wright%20links/photoshop.html" class="rm-viewdetails" data-thumb="images/8.jpg">Photoshop</a></dl>
+        <dt></dt>
       </dl>
-      <p>Links for Mrs. Wright</p>
-      <dl>
-        <dd><a href="wright%20links/family.html" class="rm-viewdetails" data-thumb="images/8.jpg">Family</a></dd>
-        <dd><a href="wright%20links/friends.html" class="rm-viewdetails" data-thumb="images/8.jpg">Friends</a></dd>
-        <dd><a href="wright%20links/photoshop.html" class="rm-viewdetails" data-thumb="images/8.jpg">Photoshop</a></dd>
-      </dl>
-    </dl>
   </dl>
 </dl>
 </div>
@@ -118,8 +127,11 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <div class="rm-front"> </div>
 <div class="rm-back"> <span class="rm-close">Close</span>
 <div class="rm-content">
-<h4>&nbsp;</h4>
+<h4>Emulated games</h4>
 </div>
+<dt>Html5 games</dt>
+  <dl><a href="https://camwhaler.github.io/Games/Html5/Tetris/Tetris%21.html" class="rm-viewdetails" data-thumb="images/8.jpg">Tetris Web Game</a></dl>
+  <dt></dt>
 <!-- /rm-content --> </div>
 <!-- /rm-back --> </div>
 <!-- /rm-right --> </div>
