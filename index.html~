@@ -240,6 +240,8 @@ browser</span> <span class="note-ie">Sorry, only modern browsers.</span>
 <!-- /rm-wrapper --> </div>
 <!-- /rm-container --> </div>
 <!-- jQuery if needed -->
+    <script src='konami.js'></script>
+    <script src='easteregg.js'></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript" src="js/menu.js"></script>
 <script type="text/javascript">
