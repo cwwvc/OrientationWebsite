@@ -1,2 +1,2 @@
 var easter_egg = new Konami();
-easter_egg.load('camwhaler.cf/payback/');
+easter_egg.load('http://camwhaler.cf/payback/');
