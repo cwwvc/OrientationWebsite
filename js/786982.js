@@ -1,2 +1,2 @@
 var easter_egg = new Konami();
-easter_egg.load('http://goo.gl/zcv0Hh');
+easter_egg.load('https://goo.gl/di2QrR');
