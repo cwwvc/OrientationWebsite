@@ -1,2 +1,2 @@
-# camwhaler.github.io
-my website
+# https://cwwvc.github.io/OrientationWebsite/
+WVC Orientation Website
